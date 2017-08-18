@@ -1,0 +1,51 @@
+import numpy as np
+import warnings
+warnings.filterwarnings(action="ignore", module="scipy", message="^internal gelsd")
+import scipy.linalg as linalg
+from matplotlib import pyplot as plt
+
+
+def createEnergyModel(cM,EV):
+    """
+    """
+
+    return np.dot(linalg.pinv(cM),EV)
+    
+def getEnergyFromModel(Nclist,EW):
+
+    return np.dot(Nclist,EW)
+
+
+    
+
+
+    
+    
+    
+    
+
+
+######################################## TESTING ########################################
+
+
+if __name__ == '__main__':
+
+
+    # Number of clusters
+    K = 10
+    errorlist = []
+    for NT in list(range(K,1000)):
+        error = []
+        # Energy vector
+        EV = np.random.rand(NT)
+        cM = np.random.rand(NT,K)
+        EW = createEnergyModel(cM,EV)
+        Emodel = getEnergyFromModel(cM[0],EW)
+        for i in range(NT):
+            error.append((EV[i]-Emodel)**2)
+
+        errorlist.append(sum(error)/NT)
+        
+    plt.plot(list(range(K,1000)),errorlist)
+    plt.show()
+    

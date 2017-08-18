@@ -1,0 +1,174 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/au452560/project2/lib/python3.6/site-packages/scipy/" . "optimize/")
+ ("/Users/au452560/project2/lib/python3.6/site-packages/" . "scipy/")
+ ("/Users/au452560/project2/lib/python3.6/" . "site-packages/")
+ ("/Users/au452560/project2/lib/" . "python3.6/")
+ ("/Users/au452560/crystalStructures/" . "energyCalculations/")
+ ("/Users/au452560/.emacs.d/snippets/" . "testfolder/")
+ ("/Users/au452560/CrystalStructures/" . "EnergyCalculations/")
+ ("/Users/au452560/project2/" . "lib/")
+ ("/Users/au452560/surface_project/surfaceProject/surfaceProject/" . "plotGrid/")
+ ("/Users/au452560/surface_project/surfaceProject/henriksKmeans/" . "henriksKmeans/")
+ ("/Users/au452560/surface_project/surfaceProject/plotGrid/" . "plotGrid/")
+ ("/Users/au452560/tests/createPackageTest/printTestPackage/" . "printTestPackage/")
+ ("/Users/au452560/tests/createPackageTest/" . "printTestPackage/")
+ ("/Users/au452560/tests/" . "createPackageTest/")
+ ("/Users/au452560/surface_project/surfaceProject/" . "surfaceProject/")
+ ("/Users/" . "au452560/")
+ ("/Users/au452560/surface_project/" . "surfaceProject/")
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/" . "python-mode/")
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/" . "snippets/")
+ ("/Users/au452560/.emacs.d/elpa/" . "yasnippet-0.12.1/")
+ ("/Users/au452560/.emacs.d/" . "elpa/")
+ ("/Users/au452560/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/au452560/"
+ "/Users/au452560/.emacs.d/"
+ "/Users/au452560/project2/lib/python3.6/site-packages/scipy/optimize/"
+ "/Users/au452560/crystalStructures/"
+ "/Users/au452560/project2/bin/"
+ "/Users/au452560/crystalStructures/energyCalculations/"
+ "/Users/au452560/surface_project/surfaceProject/surfaceProject/plotGrid/"
+ "/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/python-mode/"
+ "/Users/au452560/crystalStructures/EnergyCalculations/"
+ "/Users/au452560/CrystalStructures/EnergyCalculations/"
+ "/Users/au452560/surface_project/surfaceProject/surfaceProject/FeatureVector/"
+ "/Users/au452560/surface_project/surfaceProject/surfaceProject/Emodel/"
+ "/Users/au452560/surface_project/surfaceProject/surfaceProject/henriksKmeans/"
+ "/Users/au452560/surface_project/surfaceProject/surfaceProject/energycalculations/"
+ "/Users/au452560/surface_project/Visualizations/"
+ "/Users/au452560/surface_project/surfaceProject/"
+ "/Users/au452560/surface_project/surfaceProject/henriksKmeans/henriksKmeans/"
+ "/Users/au452560/surface_project/surfaceProject/plotGrid/plotGrid/"
+ "/Users/au452560/surface_project/surfaceProject/plotGrid/"
+ "/Users/au452560/tests/createPackageTest/printTestPackage/printTestPackage/"
+ "/Users/au452560/tests/importPackageTest/"
+ "/Users/au452560/tests/createPackageTest/printTestPackage/"
+ "/Users/au452560/tests/testfolder/"
+ "/Users/au452560/tests/"
+ "/Users/au452560/surface_project/surfaceProject/FeatureVector/"
+ "/Users/au452560/Downloads/"
+ "/Users/au452560/introduction_challenge/"
+ "/Users/au452560/surface_project/"
+ "/Users/au452560/MyRepository/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bash_profile"
+ "init.el"
+ "_basinhopping.py"
+ "coordinateSet.py"
+ "activate"
+ "energyLennardJones.py"
+ "plotSurface.py"
+ "basinHoppingTest.py"
+ "featureVector.py"
+ "plotGrid2.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/au452560/" (22934 41459 0 0) "textest.tex" "tests/" "surface_project/" "Public/" "project2/" "project1/" "Pictures/" "MyRepository/" "Music/" "Movies/" "Library/" "lib/" "introduction_challenge/" "example.flow" "Downloads/" "Documents/" "Desktop/" "crystalStructures/" "bin/" ".viminfo" ".Trash/" ".ssh/" ".python_history-24985.tmp" ".python_history" ".matplotlib/" ".lesshst" ".gitconfig" ".emacs.d/" ".DS_Store" ".cups/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".account" "#.bashrc#" "../" "./")
+
+ ("/Users/au452560/.emacs.d/" (22934 41328 0 0) "themes/" "testfolder/" "snippets/" "init.el~" "init.el" "ido.last~" "ido.last" "emacs_backup/" "elpa/" "auto-save-list/" "#init.el#" "../" "./")
+
+ ("/Users/au452560/crystalStructures/" (22934 40649 0 0) "README.md" "plotSurface.py" "optimized_50_particles.png" "featureVector.py" "energyCalculations/" "coords50Na.pckl" "coordinateSet.py" "coordinateGenerator.py" "basinHoppingTest.py" "__pycache__/" "__init__.py" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/au452560/project2/lib/python3.6/site-packages/scipy/optimize/" (22920 28374 0 0) "zeros.py" "tnc.py" "tests/" "slsqp.py" "setup.py" "optimize.py" "nonlin.py" "nnls.py" "moduleTNC.cpython-36m-darwin.so" "minpack2.cpython-36m-darwin.so" "minpack.py" "linesearch.py" "lbfgsb.py" "cobyla.py" "_zeros.cpython-36m-darwin.so" "_tstutils.py" "_trustregion_ncg.py" "_trustregion_dogleg.py" "_trustregion.py" "_spectral.py" "_slsqp.cpython-36m-darwin.so" "_root.py" "_numdiff.py" "_nnls.cpython-36m-darwin.so" "_minpack.cpython-36m-darwin.so" "_minimize.py" "_lsq/" "_linprog.py" "_lbfgsb.cpython-36m-darwin.so" "_hungarian.py" "_group_columns.cpython-36m-darwin.so" "_differentialevolution.py" "_cobyla.cpython-36m-darwin.so" "_basinhopping.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/project2/lib/python3.6/site-packages/scipy/" (22920 28380 0 0) "version.py" "THANKS.txt" "stats/" "special.pxd" "special/" "spatial/" "sparse/" "signal/" "setup.py" "pip-delete-this-directory.txt" "optimize/" "odr/" "ndimage/" "misc/" "linalg.pxd" "linalg/" "LICENSE.txt" "io/" "interpolate/" "integrate/" "INSTALL.rst.txt" "HACKING.rst.txt" "fftpack/" "constants/" "cluster/" "BENTO_BUILD.txt" "_lib/" "_build_utils/" "__pycache__/" "__init__.py" "__config__.py" ".dylibs/" "../" "./")
+
+ ("/Users/au452560/project2/lib/python3.6/site-packages/" (22929 21888 0 0) "sklearn-0.0-py3.6.egg-info/" "sklearn/" "six.py" "six-1.10.0.dist-info/" "setuptools-28.8.0.dist-info/" "setuptools/" "scipy-0.19.1.dist-info/" "scipy/" "scikit_learn-0.18.2.dist-info/" "pytz-2017.2.dist-info/" "pytz/" "python_dateutil-2.6.1.dist-info/" "pyparsing.py" "pyparsing-2.2.0.dist-info/" "pylab.py" "printTestPackage-0.1-py3.6.egg-info/" "printTestPackage/" "plotGrid-0.1-py3.6.egg-info/" "plotGrid/" "pkg_resources/" "pip-9.0.1.dist-info/" "pip/" "numpy-1.13.1.dist-info/" "numpy/" "mpl_toolkits/" "matplotlib-2.0.2.dist-info/" "matplotlib-2.0.2-py3.6-nspkg.pth" "matplotlib/" "easy_install.py" "dateutil/" "cycler.py" "cycler-0.10.0.dist-info/" "__pycache__/" "../" "./")
+
+ ("/Users/au452560/project2/lib/python3.6/" (22913 51359 0 0) "site-packages/" "../" "./")
+
+ ("/Users/au452560/project2/lib/" (22913 51359 0 0) "python3.6/" "../" "./")
+
+ ("/Users/au452560/crystalStructures/energyCalculations/" (22933 32229 0 0) "LJplot.png" "energyLennardJones.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/Downloads/" (22932 39969 0 0) "Wales1997_basin.pdf" "unspecified.html" "srep06208.pdf" "Spectacle.app/" "Schedule%20Administration%202017-%202018.pdf" "S1522-300-c17080412591.pdf" "qengine-dev-0dc3147c3be6c7ad6e83076af1052d8ff9eb33d0.zip" "qengine/" "main.py~" "main.py" "main-2.py~" "main-2.py" "Install Spotify.app/" "init.el" "iMAT invitation_August 15th 2017.pdf" "entropy-18-00168.pdf" "Emacs-25.2-universal.dmg" "densityOfStatesWithError.png" "Composer.app/" "cmake-3.9.0-Darwin-x86_64/" "c3sm51449h.pdf" "BHWKrotov-example.app/" "article_version_4.pdf" "article_version_3.pdf" "article_version_3-KM.tex" "article_version_3-KM.pdf" "1012.4537.pdf" "1-s2.0-S0010465516301266-main.pdf" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/au452560/CrystalStructures/EnergyCalculations/" (22933 16443 0 0) "LJplot.png" "energyLennardJones.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/crystalStructures/EnergyCalculations/" (22933 16443 0 0) "LJplot.png" "energyLennardJones.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/project2/bin/" (22932 18589 0 0) "python3" "python" "pip3.6" "pip3" "pip" "f2py" "easy_install-3.6" "easy_install" "activate.fish" "activate.csh" "activate" "#activate#" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/python-mode/" (22932 11206 0 0) "while" "propsg" "propg" "prop" "ifmain" "if" "for" "defm" "def" "class" "__" ".yas-parents" "../" "./")
+
+ ("/Users/au452560/.emacs.d/snippets/testfolder/" (22922 50670 0 0) "../" "./")
+
+ ("/Users/au452560/.emacs.d/snippets/" (22922 50670 0 0) "testfolder/" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/surfaceProject/henriksKmeans/" (22929 22048 0 0) "kmeans.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/surfaceProject/plotGrid/" (22929 22376 0 0) "TestWithRandomGeneratedTrainingset.eps" "randomgrid.py" "plotGrid2.py" "plotGrid.py" "mytest.png" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/surfaceProject/FeatureVector/" (22931 2042 0 0) "store.pckl" "randomgrid.py" "plotFeature.py" "plot_features.py" "MotifCountTest.png" "MotifCount.png" "learningCurve.py" "LC_noClustering.py" "LC_noClustering copy.py" "LC_class.py" "LC_3Dtrain_6Dtest.py" "getClusterNumberMatrix.py" "findStructureWithFeature.py" "featureVector.py" "densityOfStatesWithErrorSavingTrainSets.png" "densityOfStatesWithErrorNTrain1000.png" "densityOfStatesWithErrorNTrain100.png" "densityOfStatesWithErrorAndErrorBars.png" "densityOfStatesWithError.png" "densityOfStates.py" "densityOfStates.png" "densityOfMotifs.py" "densityOfMotifs.png" "clusterHandler.py" "clusterCurve.py" "calcEnergyWithFeature.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/CrystalStructures/" (22932 2731 0 0) "README.md" "EnergyCalculations/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/au452560/CrystalShapeMatching/" (22932 2304 0 0) "../" "./")
+
+ ("/Users/au452560/project2/" (22913 51413 0 0) "pyvenv.cfg" "pip-selfcheck.json" "lib/" "include/" "bin/" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/surfaceProject/" (22929 22048 0 0) "soerensKmeans/" "plotGrid/" "maltheskmeans/" "henriksKmeans/" "FeatureVector/" "energycalculations/" "Emodel/" "__pycache__/" "__init__.py" ".DS_Store" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/surfaceProject/Emodel/" (22929 18521 0 0) "energyModel.py" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/surfaceProject/energycalculations/" (22923 6658 0 0) "findStructure.py" "calcenergy.py" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/" (22923 3330 0 0) "test_folder/" "test.py~" "test.py" "surfaceProject/" "setup.py" "README.md" "plotGrid/" "findStructureFeatureEnergy.py~" "findStructureFeatureEnergy.py" "FeatureVector/" "__pycache__/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/au452560/surface_project/" (22923 3325 0 0) "Visualizations/" "surfaceProject/" "setup.py" "plotGrid.py~" "plotGrid.py" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/au452560/tests/createPackageTest/printTestPackage/printTestPackage/" (22916 14370 0 0) "__init__.py~" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/plotGrid/" (22918 54537 0 0) "setup.py~" "plotGrid/" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/plotGrid/plotGrid/" (22918 54537 0 0) "__init__.py~" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/FeatureVector/" (22918 54537 0 0) "plotGrid.py~" "plotGrid.py" "featureVector.py~" "calcEnergyWithFeature.py~" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/henriksKmeans/henriksKmeans/" (22916 27097 0 0) "kmeans.py" "__init__.py~" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/henriksKmeans/" (22916 26921 0 0) "henriksKmeans/" "../" "./")
+
+ ("/Users/au452560/tests/importPackageTest/" (22916 26873 0 0) "importTest.py~" "importTest.py" "../" "./")
+
+ ("/Users/au452560/tests/createPackageTest/printTestPackage/" (22916 14643 0 0) "setup.py~" "setup.py" "printTestPackage/" "../" "./")
+
+ ("/Users/au452560/tests/" (22916 9253 0 0) "testfolder/" "importPackageTest/" "foldertest1.py~" "foldertest1.py" "createPackageTest/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/tests/createPackageTest/" (22916 8753 0 0) "printTestPackage/" "../" "./")
+
+ ("/Users/au452560/tests/testfolder/" (22916 8845 0 0) "foldertest3.py~" "foldertest3.py" "foldertest2.py~" "foldertest2.py" "__pycache__/" "__init__.py~" "__init__.py" "../" "./")
+
+ ("/Users/Shared/" (22912 29433 0 0) "SC Info/" "Mac - Printeropsætning ved hjælp af AUITUtility - ANSATTE.docx" "Mac - Printeropsætning på UNI-maskiner.docx" "Mac - Opsætning af Outlook 2016 på Mac - udkast.docx" "Mac - Opsætning af MacBackup med AUITUtility.docx" "Mac - Opsætning af Apple Mail og Calendar - udkast.docx" "adi/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/au452560/surface_project/Visualizations/" (22914 56090 0 0) "test.py~" "test.py" "README.md" "randomgrid.py~" "randomgrid.py" "plotGrid.py" "__pycache__/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/" (22912 19495 0 0) "stadmin/" "Shared/" "root/" "auadmin/" "au452560/" ".localized" "../" "./")
+
+ ("/Users/au452560/MyRepository/" (22913 49860 0 0) "subroutine.py" "README.md" "main.py" ".gitignore~" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/au452560/introduction_challenge/" (22913 42534 0 0) "test.py~" "test.py" "randomgrid.py~" "randomgrid.py" "nA.py~" "nA.py" "lib.py" "getEnergy.py~" "getEnergy.py" "count.py~" "count.py" "backup/" "Archive.zip" "__pycache__/" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/" (22912 30180 0 0) "text-mode/" "sql-mode/" "snippet-mode/" "scala-mode/" "ruby-mode/" "rst-mode/" "python-mode/" "perl-mode/" "objc-mode/" "nxml-mode/" "markdown-mode/" "latex-mode/" "js-mode/" "html-mode/" "f90-mode/" "erlang-mode/" "emacs-lisp-mode/" "css-mode/" "csharp-mode/" "cperl-mode/" "cc-mode/" "c-mode/" "c++-mode/" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/" (22912 30184 0 0) "yasnippet.elc" "yasnippet.el" "yasnippet-tests.elc" "yasnippet-tests.el" "yasnippet-pkg.elc" "yasnippet-pkg.el" "yasnippet-debug.elc" "yasnippet-debug.el" "yasnippet-autoloads.el" "snippets/" "README.mdown" "README" "Rakefile" "NEWS" "doc/" "CONTRIBUTING.md" "ChangeLog" ".travis.yml" ".gitmodules" ".gitignore" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/" (22912 30177 0 0) "yasnippet-0.12.1/" "archives/" "../" "./")
+
+ ("/Users/au452560/.emacs.d/auto-save-list/" (22912 30915 0 0) ".saves-7877-d27163.st.client.au.dk~" ".saves-1274-d27163.st.client.au.dk~" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

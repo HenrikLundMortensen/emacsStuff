@@ -1,0 +1,66 @@
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
+from matplotlib.collections import PatchCollection
+
+import numpy as np
+
+
+
+class plotSurfaceFig:
+    """
+    Class for plotting surfaces in various configurations. Generally, a matplotlib figure instance is created. 
+    The surface is then plotted by updating existing obejcts in the figure. 
+
+    To plot a single surface with the unit square highlighted, initialize figure with the initializeSurfacePlot method. 
+    To plot a surface, call the plotSurface method. 
+
+    """
+    
+    def __init__(self):
+
+        # Create the matplotlib figure instance
+        self.fig = plt.figure()
+        self.masterAx = self.fig.gca()
+    
+
+    def initializeSurfacePlot(self,Na):
+        """
+        Initializes the figure to plot a single surface. Creates patches.Circle instances for each atom.
+        The position, color and radius of the circle is then updated later
+        
+        Input:
+        Na: Number of atoms
+        """
+
+        ax = self.masterAx
+
+        # Set background color and x and y limits
+        ax.set_facecolor((0.9,0.9,1))
+        ax.set_xlim([0-0.2,1.2])
+        ax.set_ylim([-0.2,1.2])
+        ax.set_xticks([])
+        ax.set_yticks([])
+
+        # Create patches.Circle instances
+        p = []
+        for i in range(Na):
+            p.append(patches.Circle(xy=(0,0),radius=0))
+            ax.add_patch(p[i])
+        
+        self.patches = p
+        
+    def plotSurface(self,cs):
+        """
+
+        """
+
+
+        for coords in cs.coordinates:
+
+            
+
+        
+
+if __name__ == '__main__':
+    
+

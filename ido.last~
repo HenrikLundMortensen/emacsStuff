@@ -1,0 +1,81 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/au452560/surface_project/surfaceProject/" . "FeatureVector/")
+ ("/Users/" . "Shared/")
+ ("/Users/au452560/surface_project/" . "surfaceProject/")
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/" . "python-mode/")
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/" . "snippets/")
+ ("/Users/au452560/.emacs.d/elpa/" . "yasnippet-0.12.1/")
+ ("/Users/au452560/.emacs.d/" . "elpa/")
+ ("/Users/au452560/" . "surface_project/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/au452560/surface_project/surfaceProject/FeatureVector/"
+ "/Users/au452560/surface_project/surfaceProject/"
+ "/Users/au452560/Downloads/"
+ "/Users/au452560/introduction_challenge/"
+ "/Users/au452560/surface_project/Visualizations/"
+ "/Users/au452560/surface_project/"
+ "/Users/au452560/MyRepository/"
+ "/Users/au452560/.emacs.d/"
+ "/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/python-mode/"
+ "/Users/au452560/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "featureVector.py"
+ "findStructureFeatureEnergy.py"
+ "findStructure.py"
+ "calcenergy.py"
+ "plotGrid.py"
+ "calcEnergyWithFeature.py"
+ "test.py"
+ "article_version_3-KM.tex"
+ "nA.py"
+ "randomgrid.py"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/au452560/surface_project/surfaceProject/FeatureVector/" (22915 10172 0 0) "plotGrid.py~" "plotGrid.py" "plotFeature.py" "plot_features.py" "featureVector.py~" "featureVector.py" "calcEnergyWithFeature.py~" "calcEnergyWithFeature.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/au452560/surface_project/surfaceProject/" (22915 9956 0 0) "test.py~" "test.py" "README.md" "plotGrid.py" "findStructureFeatureEnergy.py~" "findStructureFeatureEnergy.py" "findStructure.py" "FeatureVector/" "calcenergy.pyc" "calcenergy.py" "__pycache__/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/au452560/" (22915 2522 0 0) "surface_project/" "Public/" "project2/" "project1/" "Pictures/" "MyRepository/" "Music/" "Movies/" "Library/" "lib/" "introduction_challenge/" "Downloads/" "Documents/" "Desktop/" "bin/" ".viminfo" ".Trash/" ".python_history" ".matplotlib/" ".lesshst" ".gitconfig" ".emacs.d/" ".DS_Store" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".account" "#.bashrc#" "../" "./")
+
+ ("/Users/au452560/.emacs.d/" (22914 62907 0 0) "themes/" "snippets/" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "#init.el#" "../" "./")
+
+ ("/Users/au452560/Downloads/" (22914 62724 0 0) "unspecified.html" "Spectacle.app/" "main.py~" "main.py" "main-2.py~" "main-2.py" "init.el" "Emacs-25.2-universal.dmg" "article_version_3-KM.tex" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/Shared/" (22912 29433 0 0) "SC Info/" "Mac - Printeropsætning ved hjælp af AUITUtility - ANSATTE.docx" "Mac - Printeropsætning på UNI-maskiner.docx" "Mac - Opsætning af Outlook 2016 på Mac - udkast.docx" "Mac - Opsætning af MacBackup med AUITUtility.docx" "Mac - Opsætning af Apple Mail og Calendar - udkast.docx" "adi/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/au452560/surface_project/Visualizations/" (22914 56090 0 0) "test.py~" "test.py" "README.md" "randomgrid.py~" "randomgrid.py" "plotGrid.py" "__pycache__/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/au452560/surface_project/" (22914 55399 0 0) "Visualizations/" "surfaceProject/" "plotGrid.py~" "plotGrid.py" ".gitignore" "../" "./")
+
+ ("/Users/" (22912 19495 0 0) "stadmin/" "Shared/" "root/" "auadmin/" "au452560/" ".localized" "../" "./")
+
+ ("/Users/au452560/MyRepository/" (22913 49860 0 0) "subroutine.py" "README.md" "main.py" ".gitignore~" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/au452560/introduction_challenge/" (22913 42534 0 0) "test.py~" "test.py" "randomgrid.py~" "randomgrid.py" "nA.py~" "nA.py" "lib.py" "getEnergy.py~" "getEnergy.py" "count.py~" "count.py" "backup/" "Archive.zip" "__pycache__/" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/python-mode/" (22912 32333 0 0) "while" "propsg" "propg" "prop" "ifmain" "for" "defm" "def" "class" "__" ".yas-parents" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/snippets/" (22912 30180 0 0) "text-mode/" "sql-mode/" "snippet-mode/" "scala-mode/" "ruby-mode/" "rst-mode/" "python-mode/" "perl-mode/" "objc-mode/" "nxml-mode/" "markdown-mode/" "latex-mode/" "js-mode/" "html-mode/" "f90-mode/" "erlang-mode/" "emacs-lisp-mode/" "css-mode/" "csharp-mode/" "cperl-mode/" "cc-mode/" "c-mode/" "c++-mode/" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/yasnippet-0.12.1/" (22912 30184 0 0) "yasnippet.elc" "yasnippet.el" "yasnippet-tests.elc" "yasnippet-tests.el" "yasnippet-pkg.elc" "yasnippet-pkg.el" "yasnippet-debug.elc" "yasnippet-debug.el" "yasnippet-autoloads.el" "snippets/" "README.mdown" "README" "Rakefile" "NEWS" "doc/" "CONTRIBUTING.md" "ChangeLog" ".travis.yml" ".gitmodules" ".gitignore" "../" "./")
+
+ ("/Users/au452560/.emacs.d/elpa/" (22912 30177 0 0) "yasnippet-0.12.1/" "archives/" "../" "./")
+
+ ("/Users/au452560/.emacs.d/snippets/" (22912 30815 0 0) "../" "./")
+
+ ("/Users/au452560/.emacs.d/auto-save-list/" (22912 30915 0 0) ".saves-7877-d27163.st.client.au.dk~" ".saves-1274-d27163.st.client.au.dk~" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

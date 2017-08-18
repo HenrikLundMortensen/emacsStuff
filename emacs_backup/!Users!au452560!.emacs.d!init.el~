@@ -1,0 +1,47 @@
+;; Initialize yas
+(require 'package)
+(package-initialize)
+(require 'yasnippet)
+(yas-global-mode 1)
+
+;; ido mode
+(ido-mode t)
+
+;; add themes/ to path
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+
+(delete-selection-mode 1)
+
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(custom-enabled-themes (quote (zenburn)))
+ '(custom-safe-themes
+   (quote
+    ("e426d22803ef4c21c1735ca0cb638e80e0893cac629ce3b879b94bd3bb67a7a0" default)))
+ '(inhibit-startup-screen t)
+ '(initial-scratch-message nil)
+ '(package-selected-packages (quote (yasnippet))))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )
+
+;; switch from yes-or-no to y-or-p
+(defalias 'yes-or-no-p 'y-or-n-p)
+
+;; ;; Always use company mode
+;; (add-hook 'after-init-hook 'global-company-mode)
+
+;; Open buffer menu instead of showing list in seperate window
+(global-set-key "\C-x\C-b" 'buffer-menu)
+
+(add-hook 'matlab-mode-hook
+	  (lambda () (define-key matlab-mode-map (kbd "M-;") 'comment-dwim)))
+
+;;backup directory
+(setq backup-directory-alist '(("" . "~/.emacs.d/emacs_backup")))
